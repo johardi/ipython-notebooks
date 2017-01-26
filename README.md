@@ -1,7 +1,7 @@
 jupyter-notebooks
 ========================
 
-This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
+This repo contains various Jupyter notebooks that I took from others and modified to experiment with the libraries. The initial collection comes from jdwittenauer/ipython-notebooks.
 
 #### Language
 
@@ -67,6 +67,7 @@ Lab exercises for the original Spark classes on edX.
 
 Notebooks covering various interesting topics!
 
+Stock trading with Zipline
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/CodeOptimization.ipynb">Comparison Of Various Code Optimization Methods</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProbablisticProgramming.ipynb">An Intro To Probablistic Programming</a><br/>
